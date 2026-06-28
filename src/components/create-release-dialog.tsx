@@ -98,7 +98,6 @@ export function CreateReleaseDialog({
                     mode="single"
                     selected={date}
                     onSelect={setDate}
-                    initialFocus
                   />
                 </PopoverContent>
               </Popover>
